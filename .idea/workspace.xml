@@ -1,25 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b61d7a5-e64b-47a8-b8ee-8b19158999f5" name="Default Changelist" comment="" />
+    <list default="true" id="5b61d7a5-e64b-47a8-b8ee-8b19158999f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55_40_32_original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164325.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164330.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clam filter/苏瑞凯/WeChat Image_20200221164356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChat Image_20200221164050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Clam_filter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Clam_filter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZLS6WRNLsMwFocS7KCIUIteppH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Clam_filter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,6 +110,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/Clam_filter" />
     </ignored-roots>
@@ -56,13 +120,46 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584616750718" />
+    <state x="414" y="0" key="#process" timestamp="1586506489731">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="414" y="0" key="#process/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586506489731" />
     <state x="517" y="283" width="356" height="172" key="Github.CreateGistDialog" timestamp="1584617561125">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="517" y="283" width="356" height="172" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1584617561125" />
-    <state x="184" y="12" key="SettingsEditor" timestamp="1584620908410">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1586507211075">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586507211075" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1586507211075">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586507211075" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1586507211074">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586507211074" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1586507211075">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586507211075" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1586506651131">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586506651131" />
     <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584620908410" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1586508166897">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586508166897" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1586504251698">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586504251697" />
+    <state x="389" y="161" key="git4idea.merge.GitPullDialog" timestamp="1586504793583">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="161" key="git4idea.merge.GitPullDialog/0.0.1366.738/1366.305.1600.900@0.0.1366.738" timestamp="1586504793583" />
   </component>
 </project>
